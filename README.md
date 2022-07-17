@@ -4,6 +4,8 @@ M5StickC Plus + Mini Heart Rate Unit (MAX30100) で心拍数 (HR) と酸素飽�
 M5StickC Plusで動作検証済み  
 ※計測の信頼度はセンサとライブラリの品質そのもの（本コードによる補正は無し）  
   
+参考記事：[DIYer クランプ型パルスオキシメータを作ってみた](http://twinklesmile.blog42.fc2.com/blog-entry-476.html)
+  
 # Licence
 [GPLv3](https://github.com/komix-DIYer/M5StickCPlus_Pulseoximeter_Cramp/blob/master/LICENSE)
 
