@@ -8,6 +8,12 @@ M5StickC Plusで動作検証済み
 <img src="https://user-images.githubusercontent.com/25588291/179397123-c3dec917-65ef-4b4e-8a3a-d44349f6b16d.jpg" width="600">  
 
 # Main functions  
+- ボタン機能
+  - 電源ボタンを短く押すとリセット，長く押すとシャットダウン．
+  - ボタン B はモード変更 （LCD 表示する値：センサ出力値そのもの or 処理したもの）．
+- LDC 表示
+  - ボタン A 押下で画面表示の向きを回転．
+  - LCD 表示の内容は（左上から），モード，Bluetooth，バッテリ残量，SpO2，HR．
 <img src="https://user-images.githubusercontent.com/25588291/179397163-7d8a0444-9eab-47ab-902e-3571e4d545b4.jpg" width="600">  
 
 # Licence
