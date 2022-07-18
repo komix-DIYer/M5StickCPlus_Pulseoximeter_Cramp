@@ -28,6 +28,13 @@ M5StickC Plusで動作検証済み
   USB接続によるシリアル通信のほかに，Bluetooth接続（デバイス名：M5-SpO2）してのBluetoothシリアル通信も可能．  
   送信されるデータはカンマ区切りで順に，モード，時間，HR，SpO2．
 
+# Requirements
+- [M5StickC Plus](https://www.switch-science.com/catalog/6470/)
+- M5Stack用心拍センサユニット  
+  Mini Heart Rate Unit (MAX30100) Pulse Oximeter
+- oxullo/Arduino-MAX30100 library
+- [クランプ型パルスオキシメータDIYキット（M5StickC Plus + 心拍センサユニット使用）（STLデータ） - First DIY：まずは何か作ってみる - BOOTH](https://first-diy.booth.pm/items/4010143)
+
 # Licence
 [GPLv3](https://github.com/komix-DIYer/M5StickCPlus_Pulseoximeter_Cramp/blob/master/LICENSE)
 
